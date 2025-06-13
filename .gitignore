@@ -1,9 +1,0 @@
-Library/
-Logs/shadercompiler-UnityShaderCompiler.exe0.log
-Logs/
-*.csproj
-Temp/
-*.sln
-ProjectSettings/
-UserSettings/
-*.vsconfig
